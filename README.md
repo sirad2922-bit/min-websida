@@ -1,10 +1,12 @@
 # Min websida
 Min webbsida är en personlig sida där jag skriver om mina hobbyer och vad jag gillar att göra på fritiden. Det är den första webbsidan jag har byggt, och den är en del av min kurs i webbutveckling vid Mittuniversitetet. 
-## Vilka teknik ligger backom min sida?
-Jag använde - **HTML** - för att skapa sidan och strukturera upp den 
-## vart hittar man min websida?
-Här är länkarna till där jag har publicerat den: https://sirad2922-bit.github.io/min-websida/
-https://sirad-min-websida.netlify.app
+## Vilken teknik ligger bakom min sida?
+Jag använde följande teknik:
+ **HTML** - för att skapa sidan och strukturera upp den 
+## var hittar man min websida?
+Här är länkarna till där jag har publicerat den: 
+- **Github** https://sirad2922-bit.github.io/min-websida/
+- **Netlify** https://sirad-min-websida.netlify.app
 ## Svar på frågorna : 
 ## 1-Skilland på git add och git commit:
 Skillnanden är att **git add** lägger till filer och ändringar i det området som man håller på att ändra medan **git commit** kopierar filer från stagnings områden till local till  repository till exemple Github.
