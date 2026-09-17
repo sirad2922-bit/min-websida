@@ -1,9 +1,19 @@
-Min webbsida är en personlig sida där jag skriver om mina hobbyer och vad jag gillar att göra på fritiden. Det är den första webbsidan jag har byggt, och den är en del av min kurs i webbutveckling vid Mittuniversitetet. Jag använde HTML för att skapa sidan. Här är länkarna till där jag har publicerat den: https://sirad2922-bit.github.io/min-websida/
+# Min websida
+Min webbsida är en personlig sida där jag skriver om mina hobbyer och vad jag gillar att göra på fritiden. Det är den första webbsidan jag har byggt, och den är en del av min kurs i webbutveckling vid Mittuniversitetet. 
+## Vilka teknik ligger backom min sida?
+Jag använde - **HTML** - för att skapa sidan och strukturera upp den 
+## vart hittar man min websida?
+Här är länkarna till där jag har publicerat den: https://sirad2922-bit.github.io/min-websida/
 https://sirad-min-websida.netlify.app
-Svar på frågorna : 
-1-Skilland på git add och git commit är att git add lägger till filer och ändringar i det området som man håller på att ändra medan git commit kopierar filer från stagnings områden till local till  repository till exemple Github.
-2-Anledning för att man använder branchs är att säkerställa att ändringar som man håller på ska inte påverka sidan i stort. Det äre enkelt att jobba med branchs medan man fixar buggar och inte riskera att förstöra main-sidan om något blir fel.
-3-Det som händer när man gör merge är att git slår ihop ändringarna man har gjort i olika grenen och sparar den i main. 
+## Svar på frågorna : 
+## 1-Skilland på git add och git commit:
+Skillnanden är att **git add** lägger till filer och ändringar i det området som man håller på att ändra medan **git commit** kopierar filer från stagnings områden till local till  repository till exemple Github.
+## 2-Anledning för att man använder branchs är:
+ Att säkerställa att ändringar som man håller på ska inte påverka sidan i stort. Det äre enkelt att jobba med branchs medan man fixar buggar och inte riskera att förstöra main-sidan om något blir fel.
+## 3-Det som händer när man gör merge är följande: 
+ Git slår ihop ändringarna man har gjort i olika grenen och sparar den i main. 
 
-4-Skillnaden melan puscha och publicera i Github är att git skickar ändringar i Github som koder medan publicering innebär att sidan kan visas i en webläsare.
-5-Man exkluderar en fil genom att skriva en gitignore rad i projektet för att markera till git att man inte med denna fil
+## 4-Skillnaden melan puscha och publicera i Github är enligt nedan:
+Git skickar ändringar i Github som koder medan publicering innebär att sidan kan visas i en webläsare.
+## 5- Hu exkluderar en fil? 
+Man exkluderar en filgenom att skriva en gitignore rad i projektet för att markera till git att man inte med denna fil
