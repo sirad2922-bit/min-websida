@@ -2,7 +2,8 @@
 Min webbsida är en personlig sida där jag skriver om mina hobbyer och vad jag gillar att göra på fritiden. Det är den första webbsidan jag har byggt, och den är en del av min kurs i webbutveckling vid Mittuniversitetet. 
 ## Vilken teknik ligger bakom min sida?
 Jag använde följande teknik:
- **HTML** - för att skapa sidan och strukturera upp den 
+
+ - **HTML** - för att skapa sidan och strukturera upp den 
 ## var hittar man min websida?
 Här är länkarna till där jag har publicerat den: 
 - **Github** https://sirad2922-bit.github.io/min-websida/
