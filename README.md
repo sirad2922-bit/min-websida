@@ -18,5 +18,5 @@ Skillnanden är att **git add** lägger till filer och ändringar i det området
 
 ## 4-Skillnaden melan puscha och publicera i Github är enligt nedan:
 Git skickar ändringar i Github som koder medan publicering innebär att sidan kan visas i en webläsare.
-## 5- Hu exkluderar en fil? 
+## 5- Hur exkluderar man en fil? 
 Man exkluderar en filgenom att skriva en gitignore rad i projektet för att markera till git att man inte med denna fil
